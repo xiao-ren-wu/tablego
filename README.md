@@ -12,7 +12,7 @@ TableGo 是一个简单易用的 Go 语言表格处理库，支持读写 xlsx �
 ## 安装
 
 ```bash
-go get github.com/tablego
+go get github.com/xiao-ren-wu/tablego
 ```
 
 ## 快速开始
